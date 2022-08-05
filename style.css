@@ -4,3 +4,10 @@ body {
   color: whitesmoke;
   font-size: 16px;
 }
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: DodgerBlue;
+}
